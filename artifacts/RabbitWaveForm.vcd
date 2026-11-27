@@ -1,0 +1,107 @@
+$timescale 0 ns
+$end
+$var wire 1 rst_n rst_n $end
+$var wire 1 vc_key_id[0] vc_key_id[0] $end
+$var wire 1 vc_key_id[1] vc_key_id[1] $end
+$var wire 1 vc_key_id[2] vc_key_id[2] $end
+$var wire 1 vc_key_id[3] vc_key_id[3] $end
+$var wire 1 vc_key_on vc_key_on $end
+$var wire 1 vc_cmd_strobe vc_cmd_strobe $end
+$var wire 1 led[0] led[0] $end
+$var wire 1 led[1] led[1] $end
+$var wire 1 led[2] led[2] $end
+$var wire 1 led[3] led[3] $end
+$var wire 1 led[4] led[4] $end
+$var wire 1 led[5] led[5] $end
+$var wire 1 led[6] led[6] $end
+$var wire 1 led[7] led[7] $end
+$var wire 1 led[8] led[8] $end
+$var wire 1 led[9] led[9] $end
+$var wire 1 led[10] led[10] $end
+$var wire 1 led[11] led[11] $end
+$var wire 1 out_freq_hz[0] out_freq_hz[0] $end
+$var wire 1 out_freq_hz[1] out_freq_hz[1] $end
+$var wire 1 out_freq_hz[2] out_freq_hz[2] $end
+$var wire 1 out_freq_hz[3] out_freq_hz[3] $end
+$var wire 1 out_freq_hz[4] out_freq_hz[4] $end
+$var wire 1 out_freq_hz[5] out_freq_hz[5] $end
+$var wire 1 out_freq_hz[6] out_freq_hz[6] $end
+$var wire 1 out_freq_hz[7] out_freq_hz[7] $end
+$var wire 1 out_freq_hz[8] out_freq_hz[8] $end
+$var wire 1 out_freq_hz[9] out_freq_hz[9] $end
+$var wire 1 out_freq_hz[10] out_freq_hz[10] $end
+$var wire 1 out_freq_hz[11] out_freq_hz[11] $end
+$var wire 1 out_freq_hz[12] out_freq_hz[12] $end
+$var wire 1 out_freq_hz[13] out_freq_hz[13] $end
+$var wire 1 out_freq_hz[14] out_freq_hz[14] $end
+$var wire 1 out_freq_hz[15] out_freq_hz[15] $end
+$var wire 1 out_last_event_ts[0] out_last_event_ts[0] $end
+$var wire 1 out_last_event_ts[1] out_last_event_ts[1] $end
+$var wire 1 out_last_event_ts[2] out_last_event_ts[2] $end
+$var wire 1 out_last_event_ts[3] out_last_event_ts[3] $end
+$var wire 1 out_last_event_ts[4] out_last_event_ts[4] $end
+$var wire 1 out_last_event_ts[5] out_last_event_ts[5] $end
+$var wire 1 out_last_event_ts[6] out_last_event_ts[6] $end
+$var wire 1 out_last_event_ts[7] out_last_event_ts[7] $end
+$var wire 1 out_last_event_ts[8] out_last_event_ts[8] $end
+$var wire 1 out_last_event_ts[9] out_last_event_ts[9] $end
+$var wire 1 out_last_event_ts[10] out_last_event_ts[10] $end
+$var wire 1 out_last_event_ts[11] out_last_event_ts[11] $end
+$var wire 1 out_last_event_ts[12] out_last_event_ts[12] $end
+$var wire 1 out_last_event_ts[13] out_last_event_ts[13] $end
+$var wire 1 out_last_event_ts[14] out_last_event_ts[14] $end
+$var wire 1 out_last_event_ts[15] out_last_event_ts[15] $end
+$enddefinitions $end
+$dumpvars
+b0 rst_n
+b0 vc_key_id[0]
+b0 vc_key_id[1]
+b0 vc_key_id[2]
+b0 vc_key_id[3]
+b0 vc_key_on
+b0 vc_cmd_strobe
+b0 led[0]
+b0 led[1]
+b0 led[2]
+b0 led[3]
+b0 led[4]
+b0 led[5]
+b0 led[6]
+b0 led[7]
+b0 led[8]
+b0 led[9]
+b0 led[10]
+b0 led[11]
+b0 out_freq_hz[0]
+b0 out_freq_hz[1]
+b0 out_freq_hz[2]
+b0 out_freq_hz[3]
+b0 out_freq_hz[4]
+b0 out_freq_hz[5]
+b0 out_freq_hz[6]
+b0 out_freq_hz[7]
+b0 out_freq_hz[8]
+b0 out_freq_hz[9]
+b0 out_freq_hz[10]
+b0 out_freq_hz[11]
+b0 out_freq_hz[12]
+b0 out_freq_hz[13]
+b0 out_freq_hz[14]
+b0 out_freq_hz[15]
+b0 out_last_event_ts[0]
+b0 out_last_event_ts[1]
+b0 out_last_event_ts[2]
+b0 out_last_event_ts[3]
+b0 out_last_event_ts[4]
+b0 out_last_event_ts[5]
+b0 out_last_event_ts[6]
+b0 out_last_event_ts[7]
+b0 out_last_event_ts[8]
+b0 out_last_event_ts[9]
+b0 out_last_event_ts[10]
+b0 out_last_event_ts[11]
+b0 out_last_event_ts[12]
+b0 out_last_event_ts[13]
+b0 out_last_event_ts[14]
+b0 out_last_event_ts[15]
+$end
