@@ -1,0 +1,4 @@
+# GUI: tkinter (stdlib). No PySide6 / Qt / VC++ redist required for the window.
+pyserial>=3.5
+numpy>=1.24.0
+pygame>=2.5.0

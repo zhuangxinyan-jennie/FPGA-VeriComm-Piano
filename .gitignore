@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# FPGA and simulation scratch files
+*.log
+*.jou
+*.wdb
+*.vvp
+*.fst
+work/
+build/
+dist/
+
+# Rust and native runtime builds
+target/
+*.dll
+*.so
+*.dylib
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keep the selected evidence under artifacts/
+!artifacts/*.vcd
+!artifacts/*.bit
+!artifacts/*.rpt
+!artifacts/*.xml

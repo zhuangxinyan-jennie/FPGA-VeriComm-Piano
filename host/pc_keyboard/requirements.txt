@@ -1,0 +1,4 @@
+# Same as zxy/electronic_keyboard (tkinter + pygame). pyserial not required.
+numpy>=1.24.0
+pygame>=2.5.0
+# Optional: USB via ctypes loads vlfd-ffi DLL (no pip package).
