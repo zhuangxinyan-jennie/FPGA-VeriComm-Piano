@@ -2,7 +2,7 @@
 // The sequence models PC keyboard notes A, S, and D:
 //   A -> key_id=0 (C), 261 Hz
 //   S -> key_id=2 (D), 293 Hz
-//   D -> key_id=4 (E), 311 Hz
+//   D -> key_id=4 (E), 329 Hz
 // Timing follows pc_keyboard/fifo_sequence.py: stable idle cycles,
 // a one-cycle strobe pulse, then additional idle cycles for settled feedback.
 

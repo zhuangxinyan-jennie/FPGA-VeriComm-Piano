@@ -11,9 +11,9 @@ from typing import Optional, Set
 
 import pygame
 
-# zxy/electronic_keyboard for audio + core + widgets
-_ZXY = Path(__file__).resolve().parent.parent.parent
-_EK = _ZXY / "electronic_keyboard"
+# Sibling host/electronic_keyboard package for audio + core + widgets.
+_HOST_ROOT = Path(__file__).resolve().parent.parent
+_EK = _HOST_ROOT / "electronic_keyboard"
 if str(_EK) not in sys.path:
     sys.path.insert(0, str(_EK))
 
